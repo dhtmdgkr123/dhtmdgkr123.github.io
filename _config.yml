@@ -2,8 +2,8 @@
 
 # Site Settings
 title: dhtmdgkr123Resume
-url: 'http://webjeda.com'
-baseurl: '/dhtmdgkr123' #change it according to your repository name
+url: ''
+baseurl: '' #change it according to your repository name
 description: dhtmdgkr123's resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
