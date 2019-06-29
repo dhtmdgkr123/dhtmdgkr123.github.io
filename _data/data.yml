@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: osh12201@gmail.com
     # phone: 012 345 6789
-    website: matas-cs.tistory.com #do not add http://
+    website: matas-cs.tistory.com
     linkedin: dhtmdgkr123
     github: dhtmdgkr123
     # twitter: '@webjeda'
     # stack-overflow: # Number/Username, e.g. 123456/alandoe
-    # codewars:
+    codewars: dhtmdgkr123
     # goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -118,7 +118,7 @@ projects:
         
       - title: ConectUS
         link: "https://github.com/angelhack-conectus"
-        tagline: "Chatting program for disaster victim usig native socket without outer communication In AngelHackathon"
+        tagline: "Chatting program for disaster victim using native socket without outer communication In AngelHackathon"
 
 # publications:
 #     title: Publications
@@ -145,16 +145,16 @@ skills:
 
     toolset:
       - name: Bash
-        level: 70%
+        level: 80%
       
       - name: docker
-        level: 70%
+        level: 80%
 
       - name: Python & Django
         level: 80%
 
       - name: Javascript & jQuery
-        level: 80%
+        level: 90%
         
       - name: PHP
         level: 90%
