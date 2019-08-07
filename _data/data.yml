@@ -58,7 +58,7 @@ sidebar:
 education:
     - degree: Computer Science
       university: University of Sangji
-      time: 2014 - 2019
+      time: 2014 - 2020
     #   details: |
     #     Describe your study here lorem ipsum dolor sit amet, consectetuer
     #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -85,7 +85,7 @@ education:
 experiences:
 
     - role: Backend Developer
-      time: 2019.07.01 - Present
+      time: 2019.07 - 2019.08
       company: IO Tech
       details: |
           - Codeigniter를 이용한 유저측, Admin 측 Restapi 구현.
