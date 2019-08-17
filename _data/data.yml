@@ -89,6 +89,12 @@ experiences:
       company: IO Tech
       details: |
           - Codeigniter를 이용한 유저측, Admin 측 Restapi 구현.
+
+    - role: Backend Developer
+      time: 2019.08 - Present
+      company: DBAD
+      details: |
+          - betterx.io Backend legacy code refectoring
    
 award:
     - name: AngelHack 1st Award
@@ -115,6 +121,10 @@ projects:
       - title: linuxServerControl
         link: "https://github.com/dhtmdgkr123/linuxServerControl"
         tagline: "Control Linux Server in web"
+
+      - title: QueryBuilder
+        link: "https://github.com/dhtmdgkr123/QueryBuilder/"
+        tagline: "SQL QueryBuildr for node.js user"
         
       - title: ConectUS
         link: "https://github.com/angelhack-conectus"
