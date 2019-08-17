@@ -94,7 +94,7 @@ experiences:
       time: 2019.08 - Present
       company: DBAD
       details: |
-          - betterx.io Backend legacy code refectoring
+          - betterx.io Backend legacy code 리팩토링
    
 award:
     - name: AngelHack 1st Award
@@ -124,7 +124,7 @@ projects:
 
       - title: QueryBuilder
         link: "https://github.com/dhtmdgkr123/QueryBuilder/"
-        tagline: "SQL QueryBuildr for node.js user"
+        tagline: "SQL QueryBuilder for node.js user"
         
       - title: ConectUS
         link: "https://github.com/angelhack-conectus"
