@@ -130,6 +130,9 @@ projects:
         link: "https://github.com/angelhack-conectus"
         tagline: "Chatting program for disaster victim using native socket without outer communication In AngelHackathon"
 
+      - title: LaravelDocs Translate
+        link : "https://github.com/laravelkr/docs"
+        tagline: "Larave queue.md Translate"
 # publications:
 #     title: Publications
 #     intro: |
